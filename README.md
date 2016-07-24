@@ -3,4 +3,4 @@
 ## Team 
 Main developers:
 * [Achim D. Brucker](http://www.brucker.ch/)
-* Helmut Petritsch
+* [Helmut Petritsch](http://petritsch.co.at/)
