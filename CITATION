@@ -1,0 +1,67 @@
+To cite the Generic Glass Access Control Model, please use 
+ 
+  Achim D. Brucker and Helmut Petritsch. Extending access control 
+  models with break-glass. In Proceedings of the 14th ACM symposium 
+  on Access control models and technologies (SACMAT '09). ACM, New 
+  York, NY, USA, 197-206. 2009.
+  doi: 10.1145/1542207.1542239
+
+A BibTeX entry for LaTeX users is
+
+@InCollection{ brucker.ea:extending:2009,
+	abstract  = {Access control models are usually static, i.e., 
+                     permissions are granted based on a policy that only 
+                     hanges seldom. Especially for scenarios in health care 
+                     and disaster management, a more flexible support of 
+                     access control, i.e., the underlying policy, is needed.
+ 
+                     break-glass is one approach for such a flexible support of 
+                     policies which helps to prevent system stagnation that could 
+                     harm lives or otherwise result in losses. Today, break-glass 
+                     techniques are usually added on top of standard access control 
+                     solutions in an ad-hoc manner and, therefore, lack an 
+                     integration into the underlying access control paradigm and the 
+                     systems' access control enforcement architecture.
+
+                     We present an approach for integrating, in a fine-grained manner, 
+                     break-glass strategies into standard access control models and 
+                     their accompanying enforcement architecture. This integration 
+                     provides means for specifying break-glass policies precisely 
+                     and supporting model-driven development techniques based on such 
+                     policies.},
+	address	  = {New York, NY, USA},
+	author	  = {Achim D. Brucker and Helmut Petritsch},
+	booktitle = {ACM symposium on access control models and technologies (SACMAT)},
+	doi	  = {10.1145/1542207.1542239},
+	editor	  = {Barbara Carminati and James Joshi},
+	isbn	  = {978-1-60558-537-6},
+	keywords  = {disaster management, access-control, break-glass, model-driven security},
+	location  = {Stresa, Italy},
+	pages	  = {197--206},
+	pdf	  = {https://www.brucker.ch/bibliography/download/2009/brucker.ea-extending-2009.pdf},
+	publisher = {ACM Press},
+	talk	  = {talk:brucker.ea:extending:2009},
+	title	  = {Extending Access Control Models with Break-glass},
+	url	  = {https://www.brucker.ch/bibliography/abstract/brucker.ea-extending-2009},
+	year	  = {2009},
+} 
+
+More details are published in the PhD Thesis of Helmut Petritsch:
+
+  Helmut Petritsch: Break-Glass - Handling Exceptional Situations in Access Control. 
+  Springer 2014, ISBN 978-3-658-07364-0, pp. 1-220
+
+
+A BibTeX entry for LaTeX users is
+
+@PhDThesis{       petritsch:break-glass:2014,
+  author        = {Helmut Petritsch},
+  title         = {Break-Glass: Handling Exceptional Situations in Access
+                  Control},
+  school        = {University of Regensburg},
+  doi           = {10.1007/978-3-658-07365-7},
+  isbn          = {978-3-658-07364-0},
+  year          = 2014,
+  publisher     = {Springer},
+  type          = {PhD Thesis}
+}
