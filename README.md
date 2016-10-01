@@ -2,7 +2,7 @@
 Today’s IT systems implement fine-grained access control mechanisms
 to protect a companies assets and to fulfill regulations such as
 Basel III, SoX or HIPAA . In general, access control cannot fully
-capture all requirementsIn particular, for exceptional situations it
+capture all requirements. In particular, for exceptional situations it
 is hard to formulate access control policies taking all possible
 legitimate accesses into account.  Exceptional Access Control is an
 approach for allowing users to override access control decisions in,
