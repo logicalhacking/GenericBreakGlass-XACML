@@ -13,7 +13,7 @@ Overriding Access Control, or related approaches such as Optimistic
 Security. 
 
 This project contains an XACML PDP/PEP infrastructure supporting 
-_Break Glass Access control_. 
+_Break Glass Access Control_. 
 
 ## Team 
 Main developers:
