@@ -1,16 +1,16 @@
 # GenericBreakGlass: XACML Reference Implementation 
 Today’s IT systems implement fine-grained access control mechanisms
 to protect a companies assets and to fulfill regulations such as
-Basel III, SoX or HIPAA. In general, access control cannot fully
+Basel III, SoX, or HIPAA. In general, access control cannot fully
 capture all requirements. In particular, for exceptional situations it
 is hard to formulate access control policies taking all possible
 legitimate accesses into account.  Exceptional Access Control is an
 approach for allowing users to override access control decisions in,
 e.g., emergency situations. Different approaches and techniques
 have been presented how to allow the user to override access control
-restrictions in a controlled way, e. g., **Break (the) Glass**,
-Overriding Access Control, or related approaches such as Optimistic
-Security. 
+restrictions in a controlled way, e. g., **Break (the) Glass**. Break
+Glass Access Control allows users to override access control decision
+in a controlled manner. 
 
 This project contains an XACML PDP/PEP infrastructure supporting 
 _Break Glass Access Control_. 
