@@ -8,7 +8,7 @@ legitimate accesses into account.  Exceptional Access Control is an
 approach for allowing users to override access control decisions in,
 e.g., emergency situations. Different approaches and techniques
 have been presented how to allow the user to override access control
-restrictions in a controlled way, e. g., **Break (the) Glass**. Break
+restrictions in a controlled way, e.g., **Break (the) Glass**. Break
 Glass Access Control allows users to override access control decision
 in a controlled manner. 
 
