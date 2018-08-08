@@ -1,4 +1,5 @@
 # GenericBreakGlass: XACML Reference Implementation 
+
 Today’s IT systems implement fine-grained access control mechanisms
 to protect a companies assets and to fulfill regulations such as
 Basel III, SoX, or HIPAA. In general, access control cannot fully
@@ -16,14 +17,18 @@ This project contains an XACML PDP/PEP infrastructure supporting
 _Break Glass Access Control_. 
 
 ## Team 
+
 Main developers:
+
 * [Achim D. Brucker](http://www.brucker.ch/)
 * [Helmut Petritsch](http://petritsch.co.at/)
 
 ## License
+
 This project is licensed under the Apache License Version 2.0.
 
 ## Publications
+
 The most important publications are:
 * Achim D. Brucker and Helmut Petritsch. Extending access control 
   models with break-glass. In Proceedings of the 14th ACM symposium 
@@ -33,4 +38,3 @@ The most important publications are:
 * Helmut Petritsch: Break-Glass - Handling Exceptional Situations in Access Control. 
   Springer 2014, ISBN 978-3-658-07364-0, pp. 1-220
   doi: [10.1007/978-3-658-07365-7](http://dx.doi.org/10.1007/978-3-658-07365-7)
-
