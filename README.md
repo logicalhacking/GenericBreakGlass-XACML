@@ -29,6 +29,12 @@ This project is licensed under the Apache License Version 2.0.
 
 SPDX-License-Identifier: Apache-2.0
 
+## Master Repository
+
+The master git repository for this project is hosted by the [Software
+Assurance & Security Research Team](https://logicalhacking.com) at
+<https://git.logicalhacking.com/GenericBreakGlass/GenericBreakGlass-XACML>.
+
 ## Publications
 
 The most important publications are:
