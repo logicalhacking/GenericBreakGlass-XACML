@@ -27,6 +27,8 @@ Main developers:
 
 This project is licensed under the Apache License Version 2.0.
 
+SPDX-License-Identifier: Apache-2.0
+
 ## Publications
 
 The most important publications are:
